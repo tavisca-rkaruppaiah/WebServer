@@ -1,0 +1,11 @@
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\WebServerSocket\bin\Debug\netcoreapp2.1\WebServerSocket.deps.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\WebServerSocket\bin\Debug\netcoreapp2.1\WebServerSocket.runtimeconfig.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\WebServerSocket\bin\Debug\netcoreapp2.1\WebServerSocket.runtimeconfig.dev.json
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\WebServerSocket\bin\Debug\netcoreapp2.1\WebServerSocket.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\WebServerSocket\bin\Debug\netcoreapp2.1\WebServerSocket.pdb
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\WebServerSocket\obj\Debug\netcoreapp2.1\WebServerSocket.csprojAssemblyReference.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\WebServerSocket\obj\Debug\netcoreapp2.1\WebServerSocket.csproj.CoreCompileInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\WebServerSocket\obj\Debug\netcoreapp2.1\WebServerSocket.AssemblyInfoInputs.cache
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\WebServerSocket\obj\Debug\netcoreapp2.1\WebServerSocket.AssemblyInfo.cs
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\WebServerSocket\obj\Debug\netcoreapp2.1\WebServerSocket.dll
+C:\Users\rkaruppaiah\Desktop\RaguWS\VisualStudioWs\WebServerSocket\obj\Debug\netcoreapp2.1\WebServerSocket.pdb
